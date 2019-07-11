@@ -10,7 +10,7 @@
 
 ## Structural Patterns
 
-- [ ] Adapter
+- [x] [Adapter](./src/adapter)
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorate
