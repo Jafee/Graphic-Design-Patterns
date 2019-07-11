@@ -29,6 +29,6 @@
 - [ ] Observer
 - [ ] State
 - [ ] Strategy
-- [ ] Template Method
+- [x] [Template Method](./src/templateMethod/README.md)
 - [ ] Visitor
 
