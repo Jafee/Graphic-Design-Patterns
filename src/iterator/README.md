@@ -13,11 +13,11 @@
 
 ### Example UML
 
-![Iterator Example](resource/iterator-example.png)
+![iterator-example](resource/iterator-example.png)
 
 ### Design Pattern UML
 
-![Iterator Example](resource/iterator.png)
+![iterator](resource/iterator.png)
 
 ### Iterator 模式中的角色
 

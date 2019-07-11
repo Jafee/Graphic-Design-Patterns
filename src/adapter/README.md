@@ -7,19 +7,19 @@ Adapter 模式有两种实现方式：
 
 ### 类适配模式（使用继承的适配器）UML
 
-![Iterator Example](./resource/adapter-base-class.png)
+![adapter-base-class](./resource/adapter-base-class.png)
 
 ### 对象适配器模式（使用委托的适配器）UML
 
-![Iterator Example](./resource/adapter-base-interface.png)
+![adapter-base-interface](./resource/adapter-base-interface.png)
 
 ### 类适配模式（使用继承的适配器）例子 UML
 
-![Iterator Example](./resource/adapter-base-class-example.png)
+![adapter-base-class-example](./resource/adapter-base-class-example.png)
 
 ### 对象适配器模式（使用委托的适配器）例子 UML
 
-![Iterator Example](./resource/adapter-base-interface-example.png)
+![adapter-base-interface-example](./resource/adapter-base-interface-example.png)
 
 ### 委托
 
