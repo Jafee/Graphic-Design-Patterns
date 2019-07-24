@@ -4,13 +4,13 @@
 
 - [ ] Abstract Factory
 - [ ] Builder
-- [x] [Factory Method](./src/factoryMethod/)
-- [ ] Prototype
-- [ ] Singleton
+- [x] [Factory Method](./src/factoryMethod)
+- [x] [Prototype](./src/prototype)
+- [x] [Singleton](./src/singleton)
 
 ## Structural Patterns
 
-- [x] [Adapter](./src/adapter/)
+- [x] [Adapter](./src/adapter)
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorate
@@ -23,12 +23,12 @@
 - [ ] Chain of Responsibility
 - [ ] Command
 - [ ] Interpreter
-- [x] [Iterator](./src/iterator/)
+- [x] [Iterator](./src/iterator)
 - [ ] Mediator
 - [ ] Memento
 - [ ] Observer
 - [ ] State
 - [ ] Strategy
-- [x] [Template Method](./src/templateMethod/)
+- [x] [Template Method](./src/templateMethod)
 - [ ] Visitor
 
