@@ -11,24 +11,24 @@
 ## Structural Patterns
 
 - [x] [Adapter](./src/adapter)
-- [ ] Bridge
-- [ ] Composite
-- [ ] Decorate
-- [ ] Facade
-- [ ] Flyweight
-- [ ] Proxy
+- [x] [Bridge](./src/bridge)
+- [x] [Composite](./src/composite)
+- [x] [Decorate](./src/decorate)
+- [ ] [Facade](./src/facade)
+- [ ] [Flyweight](./src/flyweight)
+- [ ] [Proxy](./src/proxy)
 
 ## Behavioural Patterns
 
-- [ ] Chain of Responsibility
-- [ ] Command
-- [ ] Interpreter
+- [ ] [Chain of Responsibility](./src/chainOfResponsibility)
+- [ ] [Command](./src/command)
+- [ ] [Interpreter](./src/interpreter)
 - [x] [Iterator](./src/iterator)
-- [ ] Mediator
-- [ ] Memento
-- [ ] Observer
-- [ ] State
-- [ ] Strategy
+- [ ] [Mediator](./src/mediator)
+- [ ] [Memento](./src/memento)
+- [ ] [Observer](./src/observer)
+- [ ] [State](./src/state)
+- [x] [Strategy](./src/strategy)
 - [x] [Template Method](./src/templateMethod)
-- [ ] Visitor
+- [ ] [Visitor](./src/visitor)
 

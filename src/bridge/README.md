@@ -16,7 +16,7 @@ Bridge 模式的主要是为了**将两样东西连接起来**，分别是：
 
 ### Bridge 模式例子 UML
 
-![bridge-ex.png](./resource/bridge-example.png)
+![bridge-example.png](./resource/bridge-example.png)
 
 ### 类的一览表
 
